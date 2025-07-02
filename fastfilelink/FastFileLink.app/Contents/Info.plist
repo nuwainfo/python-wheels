@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>FastFileLink</string>
+	<key>CFBundleExecutable</key>
+	<string>CoreDarwin</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-635c81b9be326b7502b09f010161522e8dd6c17cab0f9ed9fbf8d84596eefb00.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.nuwa.fastfilelink</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>FastFileLink</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2025 Nuwa Information Ltd.</string>
+	<key>serialNumber</key>
+	<string>0123456789</string>
+</dict>
+</plist>
